@@ -6,7 +6,6 @@ let taskId = 0
 pushTask.addEventListener('click', () => {
     pushTaskToArray()
     printArray()
-    insertData()
 })
 
 function pushTaskToArray() {
